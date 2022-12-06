@@ -4,7 +4,7 @@
 
 - Minsk, Belarus
 - E-mail: [navitski82@gmail.com](navitski82@gmail.com)
-- Github: https://github.com/A1ex82
+- Github: [A1ex82]https://github.com/A1ex82
 - Tel: +375292727439
 - Discord:[@A1ex82#0845](@A1ex82#0845)
 
