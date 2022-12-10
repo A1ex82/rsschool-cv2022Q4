@@ -48,15 +48,13 @@ html {
 }
 
 .nav-link {
-  padding: 0 20px;
-  line-height: 50px;
+  position: relative;
+  padding: 0 12px;
   text-decoration: none;
-  color: #829985;
-  transition: color 0.5s;
-}
-
-.nav-link:hover {
-  color: #5d7260;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 50px;
+  color: #fff; 
 }
 
 .rss {
@@ -84,7 +82,7 @@ html {
   text-transform: uppercase;
   letter-spacing: 5px;
   color: #829985;
-  margin-left: 30px;
+  margin-left: 60px;
 }
 
 .footer-container {
@@ -122,4 +120,12 @@ html {
   letter-spacing: 10px;
   line-height: 50px;
   word-spacing: 3px;
+}
+
+.section-text {
+  margin-left: 30px;
+}
+
+.header {
+  background-color: #829985;
 }
