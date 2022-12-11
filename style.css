@@ -3,7 +3,8 @@
 }
 
 .footer {
-  background-color: #4c504d;  
+  background-color: #4c504d;
+  padding: 20px; 
 }
 
 html {
@@ -88,7 +89,7 @@ html {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 30px;
+  margin: 0 auto;
   color: #fff;
 }
 
@@ -119,6 +120,7 @@ html {
   letter-spacing: 10px;
   line-height: 50px;
   word-spacing: 3px;
+  margin-left: 0;
 }
 
 .section-text {
