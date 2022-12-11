@@ -3,8 +3,7 @@
 }
 
 .footer {
-  background-color: #829985;
-  padding: 20px;  
+  background-color: #4c504d;  
 }
 
 html {
@@ -23,7 +22,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
+  color: #4c504d;
 }
 
 .container {
@@ -81,7 +80,7 @@ html {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #829985;
+  color: #000;
   margin-left: 60px;
 }
 
@@ -89,7 +88,7 @@ html {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 auto;
+  margin: 0 30px;
   color: #fff;
 }
 
@@ -98,7 +97,7 @@ html {
   justify-content: space-around;
   width: 100%;
   padding: 50px 30px 35px;
-  border-bottom: 5px solid #d7d1c9;
+  border-bottom: 1px solid #4c504d;
 }
 
 .section-profile-title {
@@ -127,5 +126,11 @@ html {
 }
 
 .header {
-  background-color: #829985;
+  background-color: #4c504d;
 }
+
+.pre {
+  padding: 0;
+  margin: 0;
+}
+
